@@ -1,0 +1,73 @@
+---
+title: "welcome"
+output: html_document
+---
+<style type="text/css">
+
+
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+
+</style>
+
+
+## **Welcome to the predict word APP!**
+
+With this app you will be able to predict the next word of a sentence or word that you consider. This app is the final activity of the Capstone of the specialized program of Data Science. According with the course, the capstone project class will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
+
+This capstone counts with seven weeks of duration,
+
+* **Week 1**: Overview, Understanding the Problem, and Getting the Data. 
+
+This week, we introduce the project so you can get a clear grip on the problem at hand and begin working with the dataset.
+
+* **Week 2**: Exploratory Data Analysis and Modeling.
+
+This week, we move on to the next tasks, exploratory data analysis and modeling. You'll also submit your milestone report and review submissions from your classmates.
+
+* **Week 3**: Prediction Model.
+
+This week, you'll build and evaluate your prediction model. The goal is to make your model efficient and accurate.
+
+
+* **Week 4**: Creative Exploration.
+
+This week's goal is to improve the predictive accuracy while reducing computational runtime and model complexity.
+
+
+* **Week 5**: Data Product.
+
+This week, you'll work on developing the first component of your final project, your data product.
+
+
+* **Week 6**: Slide Deck.
+
+This week, you'll work on developing the second component of your final project, a slide deck to accompany your data product.
+
+
+* **Week 7**: Final Project Submission and Evaluation.
+
+This week, you'll submit your final project and review the work of your classmates.
+
+
+## **Sections**
+
+* **Welcome**: contains a description of the app, the sections and how to use it.
+
+* **Predict next word**: contains the main tool that predict the next word, given a sentence or a single word.
+
+* **About**: contains information about the developer of this app.
+
+## **How to use it**
+
+In the section **Predict next word** you will find a box where you have to write a word or a sentence in order to predict the next word, you need to follow this steps,
+
+* Enter to the section **Predict next word** and write a word or a sentence, then click in the **Predict** button.
+
+* A table with the main ten (or less) words will be displayed, this table will show the probability of each word, the first word represent the most probable next word according to the word or sentence that you wrote.
+
+
+
+

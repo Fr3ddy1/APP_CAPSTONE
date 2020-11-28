@@ -1,0 +1,27 @@
+---
+title: "info"
+output: html_document
+---
+
+Hi! this app was created by,
+
+* Freddy F. Tapia C. 
+
+I am from Venezuela, i have a degree in mathematics with a master's degree in random models from the UCV, this app represents the final activity of the specialized program of Data Science: Statistics and Machine Learning, i already finish this courses,
+
+* Statistical Inference
+
+* Regression Models
+
+* Practical Machine Learning
+
+* Developing Data Products
+
+
+<p align="center">
+  <img src="equipo.png">
+</p>
+
+
+
+
